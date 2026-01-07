@@ -1,13 +1,10 @@
-Here is a **clean, professional `README.md`** you can directly copy-paste into your GitHub repository 👇
 
----
-
-```md
 # 🌿 Earthy Escape Farm House Website
 
 A simple and elegant static website for **Earthy Escape Farm House**, designed to showcase the property and allow users to request bookings through a form and chat instantly via WhatsApp.
 
-<img width="1920" height="1080" alt="Form Page" src="https://github.com/user-attachments/assets/205ede5a-b89d-4b55-b56f-a903b972bd19" />
+![image](https://github.com/user-attachments/assets/581716b7-8368-4af5-a8d4-fe5556e8a9be)
+
 ---
 
 ## 📌 Features
