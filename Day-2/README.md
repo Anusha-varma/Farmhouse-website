@@ -2,7 +2,7 @@
 
 ## 📌 Earthy Escape – Responsive Web Pages
 
-This project contains **two responsive frontend pages** built using **HTML & CSS**:
+This project contains **two responsive frontend pages** built using **HTML & CSS**
 
 1. **Farm House Booking Page** – uses **Flexbox**
 2. **Product List Page** – uses **CSS Grid (Frontend Mentor style)**
